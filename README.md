@@ -2,7 +2,7 @@
 
 
 <div align="center">
-	<img src="https://img.shields.io/badge/4chan-006600?style=flat&logo=4chan&logoColor=white" />
+	<img src="https://img.shields.io/badge/Apple-000000?style=flat&logo=Apple&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=flat&logo=Aiqfome&logoColor=white" />
 	
