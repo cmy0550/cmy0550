@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=I'm%20Minyeong&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Hi%20I'm%20Minyeong&fontSize=35)
 
 ### Hi there 👋
 
