@@ -2,9 +2,8 @@
 
 ### Hi there 👋
 <div align="center">
-	<img src="https://img.shields.io/badge/Aiqfome-#7A1FA2?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/Aiqfome-#7A1FA2?style=flat&logo=Aiqfome&logoColor=white" />
 </div>
-
 <!--
 **cmy0550/cmy0550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
