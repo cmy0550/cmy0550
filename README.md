@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 <div align="center">
-	<img src="https://img.shields.io/badge/4chan-#006600?style=flat&logo=4chan&logoColor=white" />
+	<img src="https://img.shields.io/badge/4chan-006600?style=flat&logo=4chan&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 </div>
 <!--
 **cmy0550/cmy0550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
