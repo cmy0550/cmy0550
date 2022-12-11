@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Hi%20!%20I'm%20Minyeong&fontSize=35)
 
-### CUTE 👋
+
 <div align="center">
 	<img src="https://img.shields.io/badge/4chan-006600?style=flat&logo=4chan&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
