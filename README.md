@@ -5,7 +5,7 @@
 	<img src="https://img.shields.io/badge/Apple-000000?style=flat&logo=Apple&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Apple Music-FA243C?style=flat&logo=Apple Music&logoColor=white" />
-	
+	 
 </div>
 <!--
 **cmy0550/cmy0550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
